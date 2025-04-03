@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.Demoblaze.listener.ExtentReport"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="Browser" value="Chrome"/>
+    <classes>
+      <class name="com.Demoblaze.tests.DemoblazeTest">
+        <methods>
+          <include name="initializeDriver"/>
+          <include name="TC01_DemoblazeTest"/>
+        </methods>
+      </class> <!-- com.Demoblaze.tests.DemoblazeTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

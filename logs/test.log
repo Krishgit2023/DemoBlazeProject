@@ -1,0 +1,27 @@
+2025-04-04 00:10:45 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Started: TC01_DemoblazeTest
+2025-04-04 00:10:47 [main] ERROR com.Demoblaze.utilities.LoggerUtility - Test Case Failed due to: unexpected alert open: {Alert text : Wrong password.}
+  (Session info: chrome=134.0.6998.179): Wrong password.
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4275ffdc81291d136f39a32e2deb8d6d, findElement {value=//a[contains(text(),'Add to cart')], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 134.0.6998.179, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\krishna\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64694}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64694/devtoo..., se:cdpVersion: 134.0.6998.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4275ffdc81291d136f39a32e2deb8d6d
+2025-04-04 00:10:47 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Completed: TC01_DemoblazeTest
+2025-04-04 00:15:41 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Started: TC01_DemoblazeTest
+2025-04-04 00:15:43 [main] ERROR com.Demoblaze.utilities.LoggerUtility - Test Case Failed due to: unexpected alert open: {Alert text : User does not exist.}
+  (Session info: chrome=134.0.6998.179): User does not exist.
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d8969b586f9d7f4fc6308446e4b99c5, findElement {value=//a[contains(text(),'Add to cart')], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: chrome, browserVersion: 134.0.6998.179, chrome: {chromedriverVersion: 134.0.6998.165 (fd886e2cb29..., userDataDir: C:\Users\krishna\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64862}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64862/devtoo..., se:cdpVersion: 134.0.6998.179, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d8969b586f9d7f4fc6308446e4b99c5
+2025-04-04 00:15:43 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Completed: TC01_DemoblazeTest
+2025-04-04 00:17:18 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Started: TC01_DemoblazeTest
+2025-04-04 00:17:29 [main] INFO  com.Demoblaze.utilities.LoggerUtility - User successfully logged in.
+2025-04-04 00:17:29 [main] INFO  com.Demoblaze.utilities.LoggerUtility - Test Case Execution Completed: TC01_DemoblazeTest
+2025-04-04 00:21:59 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Started: TC01_DemoblazeTest
+2025-04-04 00:21:59 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Navigating to Home Page...
+2025-04-04 00:22:17 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Successfully executed TC01_HomePage.
+2025-04-04 00:22:17 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Completed: TC01_DemoblazeTest
