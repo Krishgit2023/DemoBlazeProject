@@ -23,13 +23,13 @@ public class BaseTest {
 	public void initializeDriver(String browser) throws InterruptedException {
 		if (browser.equalsIgnoreCase("Chrome")) {
 
-			WebDriverManager.chromedriver().setup(); // Automatically sets up the correct version of the driver
+			WebDriverManager.chromedriver().setup(); 
 			ChromeOptions options = new ChromeOptions();
-			options.setAcceptInsecureCerts(true); // Accept insecure certificates
+			options.setAcceptInsecureCerts(true); 
 			driver = new ChromeDriver(options);
 		} else if (browser.equalsIgnoreCase("Firefox")) {
 
-			WebDriverManager.firefoxdriver().setup(); // Automatically sets up Firefox driver
+			WebDriverManager.firefoxdriver().setup(); 
 			driver = new FirefoxDriver();
 		} else {
 			System.out.println("Invalid browser type");

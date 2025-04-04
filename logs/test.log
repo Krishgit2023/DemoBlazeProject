@@ -25,3 +25,11 @@ Session ID: 9d8969b586f9d7f4fc6308446e4b99c5
 2025-04-04 00:21:59 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Navigating to Home Page...
 2025-04-04 00:22:17 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Successfully executed TC01_HomePage.
 2025-04-04 00:22:17 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Completed: TC01_DemoblazeTest
+2025-04-04 18:27:38 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Started: TC01_DemoblazeTest
+2025-04-04 18:27:38 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Navigating to Home Page...
+2025-04-04 18:27:58 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Successfully executed TC01_HomePage.
+2025-04-04 18:27:58 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Completed: TC01_DemoblazeTest
+ 2025-04-04 20:15:56 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Started: TC01_DemoblazeTest
+2025-04-04 20:15:56 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Navigating to Home Page...
+2025-04-04 20:16:25 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Successfully executed TC01_HomePage.
+2025-04-04 20:16:25 [main] INFO  com.Demoblaze.tests.DemoblazeTest - Test Case Completed: TC01_DemoblazeTest

@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Suite"> 
     <listeners>
         <listener class-name="com.Demoblaze.listener.ExtentReport" />
     </listeners>
-    <test thread-count="1" name="Test">
+    <test  name="Test">
         <parameter name="Browser" value="Chrome" />
         <classes>
             <class name="com.Demoblaze.tests.DemoblazeTest">
-                <methods>
-                    <include name="TC01_DemoblazeTest" />
-                </methods>
+               
             </class>
         </classes>
     </test> <!-- Test -->

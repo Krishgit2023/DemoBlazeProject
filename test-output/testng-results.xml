@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-04-03T18:51:51Z" name="Suite" finished-at="2025-04-03T18:52:17Z" duration-ms="26187">
+  <suite started-at="2025-04-04T14:45:43Z" name="Suite" finished-at="2025-04-04T14:46:26Z" duration-ms="42886">
     <groups>
     </groups>
-    <test started-at="2025-04-03T18:51:51Z" name="Test" finished-at="2025-04-03T18:52:17Z" duration-ms="26187">
+    <test started-at="2025-04-04T14:45:43Z" name="Test" finished-at="2025-04-04T14:46:26Z" duration-ms="42886">
       <class name="com.Demoblaze.tests.DemoblazeTest">
-        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@3b220bcb]" started-at="2025-04-03T18:51:51Z" name="initializeDriver" finished-at="2025-04-03T18:51:59Z" duration-ms="8415" status="PASS">
+        <test-method is-config="true" signature="initializeDriver(java.lang.String)[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@556d0826]" started-at="2025-04-04T14:45:43Z" name="initializeDriver" finished-at="2025-04-04T14:45:56Z" duration-ms="13609" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method signature="TC01_DemoblazeTest()[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@3b220bcb]" started-at="2025-04-03T18:51:59Z" name="TC01_DemoblazeTest" finished-at="2025-04-03T18:52:17Z" duration-ms="17581" status="PASS">
+        <test-method signature="TC01_DemoblazeTest()[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@556d0826]" started-at="2025-04-04T14:45:56Z" name="TC01_DemoblazeTest" finished-at="2025-04-04T14:46:25Z" duration-ms="28646" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01_DemoblazeTest -->
-        <test-method is-config="true" signature="terminateBrowser(org.testng.ITestResult)[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@3b220bcb]" started-at="2025-04-03T18:52:17Z" name="terminateBrowser" finished-at="2025-04-03T18:52:17Z" duration-ms="163" status="PASS">
+        <test-method is-config="true" signature="terminateBrowser(org.testng.ITestResult)[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@556d0826]" started-at="2025-04-04T14:46:25Z" name="terminateBrowser" finished-at="2025-04-04T14:46:26Z" duration-ms="554" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=TC01_DemoblazeTest status=SUCCESS method=DemoblazeTest.TC01_DemoblazeTest()[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@3b220bcb] output={null}]]]>
+                <![CDATA[[TestResult name=TC01_DemoblazeTest status=SUCCESS method=DemoblazeTest.TC01_DemoblazeTest()[pri:0, instance:com.Demoblaze.tests.DemoblazeTest@556d0826] output={null}]]]>
               </value>
             </param>
           </params>
